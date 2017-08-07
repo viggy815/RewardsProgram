@@ -1,0 +1,12 @@
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\CustomerDatabase.mdf
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\CustomerDatabase_log.ldf
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.vbproj.GenerateResource.Cache
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\Vignero_Customer_Database.exe.config
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.Form1.resources
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.Resources.resources
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.xml
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\Vignero_Customer_Database.exe
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\Vignero_Customer_Database.pdb
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\bin\Debug\Vignero_Customer_Database.xml
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.exe
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\TeamD_Kudler_Application\TeamD_Kudler_Application\obj\Debug\Vignero_Customer_Database.pdb
